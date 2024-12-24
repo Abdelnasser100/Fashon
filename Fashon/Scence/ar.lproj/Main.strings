@@ -1,0 +1,144 @@
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "4Mz-0L-ihd"; */
+"4Mz-0L-ihd.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Please,enter  your email address"; ObjectID = "9Hp-Ph-l79"; */
+"9Hp-Ph-l79.text" = "Please,enter  your email address";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "A3B-E3-HSP"; */
+"A3B-E3-HSP.placeholder" = "Email";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "AIq-r2-zaw"; */
+"AIq-r2-zaw.title" = "Home";
+
+/* Class = "UILabel"; text = "Price: highest to low"; ObjectID = "AlH-N9-GCa"; */
+"AlH-N9-GCa.text" = "Price: highest to low";
+
+/* Class = "UILabel"; text = "Light blouse is soft cotton jersy with decorative buttons dawn the front and  a  wide"; ObjectID = "CjD-yG-3R3"; */
+"CjD-yG-3R3.text" = "Light blouse is soft cotton jersy with decorative buttons dawn the front and  a  wide";
+
+/* Class = "UIButton"; configuration.title = "Send"; ObjectID = "D4C-s5-eJ4"; */
+"D4C-s5-eJ4.configuration.title" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D4C-s5-eJ4"; */
+"D4C-s5-eJ4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "Esb-Qm-his"; */
+"Esb-Qm-his.text" = "Login";
+
+/* Class = "UINavigationItem"; title = "New Collection"; ObjectID = "GZX-Kr-DO7"; */
+"GZX-Kr-DO7.title" = "New Collection";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "IVO-5T-MNv"; */
+"IVO-5T-MNv.title" = "Profile";
+
+/* Class = "UILabel"; text = "Newest"; ObjectID = "JgZ-hU-wIg"; */
+"JgZ-hU-wIg.text" = "Newest";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "MXE-nL-MyR"; */
+"MXE-nL-MyR.text" = "Size";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Mo8-UQ-uMU"; */
+"Mo8-UQ-uMU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Sing Up"; ObjectID = "Tkf-Uv-mpC"; */
+"Tkf-Uv-mpC.text" = "Sing Up";
+
+/* Class = "UIButton"; normalTitle = "Add to card"; ObjectID = "X45-dO-k9w"; */
+"X45-dO-k9w.normalTitle" = "Add to card";
+
+/* Class = "UIButton"; configuration.title = "Close"; ObjectID = "Yaz-sA-KII"; */
+"Yaz-sA-KII.configuration.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yaz-sA-KII"; */
+"Yaz-sA-KII.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Shipping info"; ObjectID = "ZCN-UL-clx"; */
+"ZCN-UL-clx.text" = "Shipping info";
+
+/* Class = "UIButton"; configuration.title = "Log In"; ObjectID = "cfy-j3-MVG"; */
+"cfy-j3-MVG.configuration.title" = "Log In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cfy-j3-MVG"; */
+"cfy-j3-MVG.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Chat"; ObjectID = "d6m-h0-zFY"; */
+"d6m-h0-zFY.title" = "Chat";
+
+/* Class = "UILabel"; text = "$19.99"; ObjectID = "fMc-1e-fp6"; */
+"fMc-1e-fp6.text" = "$19.99";
+
+/* Class = "UITabBarItem"; title = "Bag"; ObjectID = "h5O-Ij-f4Y"; */
+"h5O-Ij-f4Y.title" = "Bag";
+
+/* Class = "UIButton"; configuration.title = "Sing Up"; ObjectID = "j16-cK-UgO"; */
+"j16-cK-UgO.configuration.title" = "Sing Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "j16-cK-UgO"; */
+"j16-cK-UgO.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Confirm  Password"; ObjectID = "jKx-Z8-weH"; */
+"jKx-Z8-weH.placeholder" = "Confirm  Password";
+
+/* Class = "UILabel"; text = "H&M"; ObjectID = "jiR-1X-ha6"; */
+"jiR-1X-ha6.text" = "H&M";
+
+/* Class = "UILabel"; text = "12 Items"; ObjectID = "lgY-GD-Sck"; */
+"lgY-GD-Sck.text" = "12 Items";
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "m28-K0-qli"; */
+"m28-K0-qli.text" = "Color";
+
+/* Class = "UITabBarItem"; title = "favorite"; ObjectID = "mRA-8j-6RU"; */
+"mRA-8j-6RU.title" = "favorite";
+
+/* Class = "UILabel"; text = "Light Blouse"; ObjectID = "mrl-5W-lFb"; */
+"mrl-5W-lFb.text" = "Light Blouse";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "oAl-eW-vNL"; */
+"oAl-eW-vNL.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "You can also like this "; ObjectID = "pTC-57-i7B"; */
+"pTC-57-i7B.text" = "You can also like this ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "sgh-zX-nLx"; */
+"sgh-zX-nLx.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Already have an acount?"; ObjectID = "uPC-YY-Zvg"; */
+"uPC-YY-Zvg.configuration.title" = "Already have an acount?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uPC-YY-Zvg"; */
+"uPC-YY-Zvg.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Forgot Password?"; ObjectID = "uk9-h7-xBI"; */
+"uk9-h7-xBI.configuration.title" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uk9-h7-xBI"; */
+"uk9-h7-xBI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "upY-za-sJ2"; */
+"upY-za-sJ2.text" = "Support";
+
+/* Class = "UIButton"; normalTitle = "Filter"; ObjectID = "vEM-5V-NMc"; */
+"vEM-5V-NMc.normalTitle" = "Filter";
+
+/* Class = "UILabel"; text = "Sort By"; ObjectID = "vN5-BH-ec8"; */
+"vN5-BH-ec8.text" = "Sort By";
+
+/* Class = "UIButton"; normalTitle = "Price: Lowest  to higt"; ObjectID = "vc3-ek-LfQ"; */
+"vc3-ek-LfQ.normalTitle" = "Price: Lowest  to higt";
+
+/* Class = "UILabel"; text = "Customer review"; ObjectID = "x1H-y8-A3D"; */
+"x1H-y8-A3D.text" = "Customer review";
+
+/* Class = "UILabel"; text = "(3)"; ObjectID = "x1b-Oc-HyV"; */
+"x1b-Oc-HyV.text" = "(3)";
+
+/* Class = "UILabel"; text = "You will receive a link to creat a new password"; ObjectID = "yUn-9D-ykL"; */
+"yUn-9D-ykL.text" = "You will receive a link to creat a new password";
+
+/* Class = "UILabel"; text = "Popular"; ObjectID = "zJG-Bt-Jh1"; */
+"zJG-Bt-Jh1.text" = "Popular";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "zPp-UJ-bS0"; */
+"zPp-UJ-bS0.placeholder" = "Password";
